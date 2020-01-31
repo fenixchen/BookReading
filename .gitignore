@@ -127,3 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/Introducing_TensorFlow_Videos_for_a_Global_Audience_Chinese/data
